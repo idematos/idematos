@@ -5,3 +5,5 @@ I post notes on studies and low-resolution photography in my [personal logbook](
 
 I also co-run the [Mogrene](https://mogrene.com) collective, where I work on building minimal websites and resource-sensitive tools.
 Some of them are open-source and free to use (see [CSSential](https://cssential.mogrene.com)), others are turning into full-blown products to be launched on the near future (take a look at [Ecoloader](https://ecoloader.com)).
+
+Get in touch via [email](mailto:isabela@dematos.dev).

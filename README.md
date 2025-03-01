@@ -1,8 +1,17 @@
-# Hello, I'm [Isabela](https://dematos.dev).
+## Hello, I'm [Isabela](https://dematos.dev).
 
-I'm an applied mathematician with a strong interest in software energy consumption estimation and optimisation. At [Mogrene](https://mogrene.com), I work on building minimal websites and resource-sensitive tools.
-Some of them are open-source and free to use (see [CSSential](https://cssential.mogrene.com)), others are turning into full-blown products to be launched on the near future (take a look at [Ecoloader](https://ecoloader.com)).
+I'm moving bits to estimate and optimise software energy consumption.
 
-I also post some notes on studies and low-resolution photography in my [personal logbook](https://dematos.dev).
+#### Technologies
+- Rust
+- CSS
+- JavaScript
+- Python
 
-Get in touch via [email](mailto:isabela@dematos.dev).
+#### Companies & Projects
+- Working at [Mogrene](https://mogrene.com)
+- Initial developer and main contributor to [CSSential](https://cssential.mogrene.com/) and [Ecoreader](https://github.com/mogrene/ecoreader/)
+
+#### Education & Experience
+- Bachelor's degree in Applied Mathematics and Scientific Computing from the University of São Paulo
+- Worked in Data Science and Software Development for several years

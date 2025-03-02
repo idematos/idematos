@@ -5,7 +5,7 @@ I'm moving bits to estimate and optimise software energy consumption.
 #### Technologies
 - Rust
 - CSS
-- JavaScript
+- TypeScript
 - Python
 
 #### Companies & Projects

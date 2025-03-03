@@ -2,7 +2,7 @@
 
 I'm moving bits to estimate and optimise software energy consumption.
 
-#### Technologies
+#### Main Technologies
 - Rust
 - CSS
 - TypeScript

@@ -10,7 +10,7 @@ I'm moving bits to estimate and optimise software energy consumption.
 
 #### Companies & Projects
 - Working at [Mogrene](https://mogrene.com)
-- Initial developer and main contributor to [CSSential](https://cssential.mogrene.com/) and [Ecoreader](https://github.com/mogrene/ecoreader/)
+- Initial developer and main contributor to [CSSential](https://cssential.mogrene.com/) and [Ecoreader](https://gitlab.com/dematos/ecoreader)
 
 #### Education & Experience
 - Bachelor's degree in Applied Mathematics and Scientific Computing from the University of São Paulo
